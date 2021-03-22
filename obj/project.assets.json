@@ -1642,11 +1642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natn0\\source\\repos\\FlapppBirdDemo.Web\\FlapppBirdDemo.Web.csproj",
+      "projectUniqueName": "C:\\Users\\natn0\\Desktop\\projects\\FlapppBirdDemo.Web\\FlapppBirdDemo.Web.csproj",
       "projectName": "FlapppBirdDemo.Web",
-      "projectPath": "C:\\Users\\natn0\\source\\repos\\FlapppBirdDemo.Web\\FlapppBirdDemo.Web.csproj",
+      "projectPath": "C:\\Users\\natn0\\Desktop\\projects\\FlapppBirdDemo.Web\\FlapppBirdDemo.Web.csproj",
       "packagesPath": "C:\\Users\\natn0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natn0\\source\\repos\\FlapppBirdDemo.Web\\obj\\",
+      "outputPath": "C:\\Users\\natn0\\Desktop\\projects\\FlapppBirdDemo.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natn0\\AppData\\Roaming\\NuGet\\NuGet.Config",
