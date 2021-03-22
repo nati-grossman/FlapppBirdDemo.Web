@@ -1,0 +1,9 @@
+﻿<div class="bird" style="@_birdCss"></div>
+
+@code {
+
+    [Parameter] public BirdModel Model { get; set; }
+
+    string _birdCss => $"bottom: {Model.DistanceFromGround}px";
+
+}
